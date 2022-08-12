@@ -5,9 +5,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ESLintのconfigがどのように変わり得るか（flat configとは何か）](https://zenn.dev/makotot/articles/0d9184f3dde858)
 - [jestにおけるアサーション数の制限について](https://zenn.dev/makotot/articles/7397286cd26eb5)
 - [フロントエンドに関連するRustのOSSや学習リソース調査メモ](https://zenn.dev/makotot/articles/frontend-related-rust-resources)
 - [React v17の破壊的変更について改めて確認](https://zenn.dev/makotot/articles/111f2718ff65a7)
 - [Storybookのテストランナー](https://zenn.dev/makotot/articles/b0729488282148)
-- [package.jsonのexportsフィールドについて](https://zenn.dev/makotot/articles/5edb504ef7d2e6)
 <!-- BLOG-POST-LIST:END -->
