@@ -5,9 +5,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Edgeの3DビューでDOM要素の重なり順を可視化する](https://zenn.dev/makotot/articles/2ad3060cdd315b)
 - [大規模コードベース向けASTツールのast-grepについて](https://zenn.dev/makotot/articles/ea823805582e5c)
 - [TypeScriptのエラーメッセージの読み方について](https://zenn.dev/makotot/articles/52bc81fdc58d05)
 - [Atomic CSS-in-JSとは何か](https://zenn.dev/makotot/articles/dcb6e6456fb6e4)
 - [Excess Property Checkingとは何か](https://zenn.dev/makotot/articles/8c78cd4dd857c0)
-- [ESLintのconfigがどのように変わり得るか（flat configとは何か）](https://zenn.dev/makotot/articles/0d9184f3dde858)
 <!-- BLOG-POST-LIST:END -->
